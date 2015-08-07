@@ -1,0 +1,11 @@
+{
+  "name": "simple-cluster",
+  "version": "0.0.1",
+  "description": "simple cluster in node.js",
+  "main": "app.js",
+  "repository": "https://github.com/simple-cluster",
+  "author": "vikram ravichandran <vikram06@ymail.com>",
+  "dependencies": {
+     "cluster": ">= 0.0.7"
+  }
+}
